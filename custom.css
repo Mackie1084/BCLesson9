@@ -117,15 +117,3 @@
   position:absolute;
 }
 
-.box6{
-  background: #05bfd7;
-  width: 200px;
-  height: 200px;
-  margin-top:5px;
-  margin-left:1000px;
-  border-radius: 5px;
-  align-items:center;
-  align-content:center;
-  display:flex;
-  position:absolute;
-}
